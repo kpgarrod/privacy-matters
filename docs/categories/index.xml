@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Privacy Matters</title>
-    <link>https://github.com/kpgarrod/privacy-matters/categories/</link>
+    <link>http://www.privacymatters.com.mt/categories/</link>
     <description>Recent content in Categories on Privacy Matters</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
-	<atom:link href="https://github.com/kpgarrod/privacy-matters/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.privacymatters.com.mt/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

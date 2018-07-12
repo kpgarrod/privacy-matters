@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://github.com/kpgarrod/privacy-matters/categories/</loc>
+    <loc>http://www.privacymatters.com.mt/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/kpgarrod/privacy-matters/</loc>
+    <loc>http://www.privacymatters.com.mt/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/kpgarrod/privacy-matters/tags/</loc>
+    <loc>http://www.privacymatters.com.mt/tags/</loc>
     <priority>0</priority>
   </url>
   
