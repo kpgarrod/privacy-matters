@@ -1,0 +1,4 @@
+baseURL = "http://privacymatters.com.mt/"
+languageCode = "en-gb"
+title = "Privacy Matters"
+theme="hugo-theme-cleanwhite"
