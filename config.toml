@@ -1,4 +1,4 @@
-baseURL = "http://privacymatters.com.mt/"
+baseURL = "https://github.com/kpgarrod/privacy-matters"
 languageCode = "en-gb"
 title = "Privacy Matters"
 theme="ananke"
